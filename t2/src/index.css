@@ -1,0 +1,15 @@
+.booklist {
+  width: 350px;
+  display: grid;
+}
+
+.book {
+  margin: 10px;
+  padding: 10px;
+  background-color: bisque;
+
+  border-radius: 1rem;
+}
+.book img {
+  width: 100%;
+}
